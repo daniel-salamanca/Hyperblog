@@ -45,3 +45,9 @@ body
     background: white;
     padding: 1cm;
 }
+#footer
+{
+    background: #33a;
+    color: white;
+    text-align: center;
+}
